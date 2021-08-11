@@ -57,4 +57,50 @@ F 3 "~" H 6000 4200 50  0001 C CNN
 	1    6000 4200
 	1    0    0    -1  
 $EndComp
+Text HLabel 4300 4250 0    50   Output ~ 0
+MISO
+Text HLabel 4300 4350 0    50   BiDi ~ 0
+SCK
+Text HLabel 4300 4450 0    50   Output ~ 0
+RESET
+Text HLabel 4800 4250 2    50   Input ~ 0
+VCC
+Text HLabel 4800 4350 2    50   Input ~ 0
+MOSI
+Text HLabel 4800 4450 2    50   Input ~ 0
+GND
+Text HLabel 5800 2950 0    50   Input ~ 0
+GND
+Text HLabel 5800 3050 0    50   Input ~ 0
+VCC
+Text HLabel 5800 3150 0    50   Input ~ 0
+RX
+Text HLabel 5800 3250 0    50   Output ~ 0
+TX
+Text HLabel 5800 4100 0    50   Input ~ 0
+GND
+Text HLabel 5800 4200 0    50   Input ~ 0
+VCC
+Text HLabel 5800 4300 0    50   BiDi ~ 0
+SDA
+Text HLabel 5800 4400 0    50   BiDi ~ 0
+SCK
+Text HLabel 4350 2650 0    50   BiDi ~ 0
+D2
+Text HLabel 4350 2750 0    50   BiDi ~ 0
+D3
+Text HLabel 4350 2850 0    50   BiDi ~ 0
+D4
+Text HLabel 4350 2950 0    50   BiDi ~ 0
+D5
+Text HLabel 4350 3050 0    50   BiDi ~ 0
+D6
+Text HLabel 4350 3150 0    50   BiDi ~ 0
+D7
+Text HLabel 4350 3250 0    50   BiDi ~ 0
+D8
+Text HLabel 4350 3350 0    50   Input ~ 0
+GND
+Text HLabel 4350 3450 0    50   Input ~ 0
+VCC
 $EndSCHEMATC
